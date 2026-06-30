@@ -214,17 +214,16 @@ Possible improvements:
 
 # 📚 Dataset
 
-Dataset source:
+## Dataset
 
+The original dataset contains 392,692 cleaned transaction records.
+
+Due to GitHub file size limitations, the full dataset is not included.
+
+A sample dataset (`sample_ecommerce.csv`) is provided for preview.
+
+Original dataset source:
 Kaggle E-Commerce Dataset
-
-The dataset contains customer transactions including:
-
-- Invoice details
-- Product information
-- Customer information
-- Country
-- Sales values
 
 ---
 
