@@ -224,7 +224,7 @@ A sample dataset (`sample_ecommerce.csv`) is provided for preview.
 
 Original dataset source:
 Kaggle E-Commerce Dataset
-
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
 ---
 
 # 👨‍💻 Author
